@@ -1,0 +1,8 @@
+{
+  "name": "dialtone",
+  "version": "1.0.95",
+  "private": true,
+  "description": "DialTone: a 1990s-style messenger, chat rooms, web browser and radio.",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}

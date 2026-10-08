@@ -1,0 +1,22 @@
+{
+  "note": "Edit this file to change the radio presets. 'embeds' are web pages shown inside the Radio window. 'streams' are direct audio stream addresses played by the Radio itself. Test every address after deploying.",
+  "embeds": [
+    {"label": "'90", "name": "HITS OF 1990", "source": "ACCURADIO", "url": "https://www.accuradio.com/channel/60e4812dab53e328124b976c"},
+    {"label": "'91", "name": "HITS OF 1991", "source": "ACCURADIO", "url": "https://www.accuradio.com/channel/60186ed1ab53e37cdcd21848"},
+    {"label": "'92", "name": "HITS OF 1992", "source": "ACCURADIO", "url": "https://www.accuradio.com/channel/5fa3228bab53e30e1eba150b"},
+    {"label": "'93", "name": "HITS OF 1993", "source": "ACCURADIO", "url": "https://www.accuradio.com/channel/60b9460bab53e37c300445b9"},
+    {"label": "'94", "name": "HITS OF 1994", "source": "ACCURADIO", "url": "https://www.accuradio.com/channel/61fc2161ab53e344fc6d44b1"},
+    {"label": "'95", "name": "HITS OF 1995", "source": "ACCURADIO", "url": "https://www.accuradio.com/channel/5e1778f9ab53e329527298b8"},
+    {"label": "'96", "name": "HITS OF 1996", "source": "ACCURADIO", "url": "https://www.accuradio.com/channel/60186b37ab53e37cdcd21847"},
+    {"label": "'97", "name": "HITS OF 1997", "source": "ACCURADIO", "url": "https://www.accuradio.com/channel/617acdd7ab53e3434517cb82"},
+    {"label": "'98", "name": "HITS OF 1998", "source": "ACCURADIO", "url": "https://www.accuradio.com/channel/5fb2ed70ab53e361e87b23c9"},
+    {"label": "'99", "name": "HITS OF 1999", "source": "ACCURADIO", "url": "https://www.accuradio.com/channel/61fc2170ab53e344fc6d44b2"}
+  ],
+  "streams": [
+    {"label": "Pop", "name": "STAR 90'S", "source": "181.FM", "url": "https://listen.181fm.com/181-star90s_128k.mp3"},
+    {"label": "Alt", "name": "90'S ALTERNATIVE", "source": "181.FM", "url": "https://listen.181fm.com/181-90salt_128k.mp3"},
+    {"label": "Dance", "name": "90'S DANCE", "source": "181.FM", "url": "https://listen.181fm.com/181-90sdance_128k.mp3"},
+    {"label": "Country", "name": "90'S COUNTRY", "source": "181.FM", "url": "https://listen.181fm.com/181-90scountry_128k.mp3"},
+    {"label": "R&B", "name": "OLD SCHOOL", "source": "181.FM", "url": "https://listen.181fm.com/181-oldschool_128k.mp3"}
+  ]
+}
